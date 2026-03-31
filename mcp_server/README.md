@@ -2,7 +2,7 @@
 
 A multi-agent customer support assistant for Apple. Built with LangChain, LangGraph, and Streamlit — it lets support executives ask questions in plain English and get answers pulled from the right source automatically.
 
-Demo video: [add link]
+Demo video: 
 
 ---
 
