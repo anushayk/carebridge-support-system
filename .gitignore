@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Database & vector store (generated, not committed)
+data/apple_support.db
+data/chroma_db/
+data/pdfs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
